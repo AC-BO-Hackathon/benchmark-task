@@ -1,8 +1,10 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
+# <Your Project Name>
 
-## The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+<Short description of your project>
+
+## Overview
+
+<Long description of your project>
 
 ## Setup command
 
